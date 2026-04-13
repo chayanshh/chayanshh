@@ -15,9 +15,6 @@ I’m currently working on: A comprehensive analysis of 50 years of Indian Stock
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=chayanshh&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=chayanshh&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 ---
 [![](https://komarev.com/ghpvc/?username=chayanshh&icon=3&color=1)](https://visitcount.itsvg.in)
 
