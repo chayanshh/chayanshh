@@ -13,7 +13,6 @@ chayansh = {
     "role"      : "Aspiring Data Analyst",
     "location"  : "India 🇮🇳",
     "tools"     : ["Python", "SQL", "Power BI", "Jupyter"],
-    "working_on": "50 Years of Indian Stock Market Analysis (1975–2025)",
     "learning"  : ["Advanced Python for Data Science", "SQL Performance Tuning"],
     "ask_me"    : ["SQL Joins & Window Functions", "Python (Tkinter)", "Stock Market TA"],
     "fun_fact"  : "I'll spend hours debugging a subquery just for that 'Aha!' moment 🔍"
